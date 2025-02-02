@@ -130,10 +130,7 @@ pip install -r requirements.txt
 
 ```plaintext
 Titanic-Survival-Prediction-Analysis/
-├── data/                     # Dataset files
 ├── notebooks/                # Jupyter notebooks for analysis and modeling
-├── scripts/                  # Python scripts for data processing and model implementation
-├── requirements.txt          # Dependencies and libraries
 └── README.md                 # Project documentation
 ```
 
