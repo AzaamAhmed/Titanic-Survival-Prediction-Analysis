@@ -47,12 +47,12 @@ The following machine learning models were implemented and evaluated:
 
 | **Model**                   | **Accuracy** |
 |-----------------------------|--------------|
-| Decision Tree Classifier    | 0.7989       |
-| Random Forest Classifier    | 0.7877       |
-| Logistic Regression         | 0.7821       |
-| AdaBoost                    | 0.7374       |
-| k-Nearest Neighbors         | 0.6704       |
-| Support Vector Classifier   | 0.6369       |
+| Decision Tree Classifier    |   0.81       |
+| Random Forest Classifier    |   0.87       |
+| Logistic Regression         |   0.85       |
+| AdaBoost                    |   0.89       |
+| k-Nearest Neighbors         |   0.80       |
+| Support Vector Classifier   |   0.88       |
 
 ### Evaluation Metrics:
 
